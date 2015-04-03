@@ -3,10 +3,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>de.tuberlin.dima</groupId>
-  <artifactId>impro3</artifactId>
+  <artifactId>news-sentiment-stratosphere</artifactId>
   <version>1.0</version>
-  <name>IMPRO-3: Big Data Analytics Project</name>
-  <url>https://bitbucket.org/maqsud/impro3/wiki/Home</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
