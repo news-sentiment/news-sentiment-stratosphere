@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/news-sentiment/news-sentiment-stratosphere.svg)](https://travis-ci.org/news-sentiment/news-sentiment-stratosphere)
 
 # Sentiment Analysis on Newspapers
-Developement of a newspaper sentiment analyzer in Stratosphere (now Apache Flink)
+Developement of a newspaper sentiment analyzer in Stratosphere (now Apache Flink: https://flink.apache.org/)
 
 ## Summary
 The news-sentiment project includes analyzing big data with technologies of distributed data processing. The requirement was to use techniques of data mining in a distributed data processing framework such as “Hadoop”, “Stratosphere”, "Pig". So we choosed a project which was about classification, topic detection and sentiment analysis. The main question of the project is “which newspaper supports a particular party?”.
@@ -15,8 +15,8 @@ The news-sentiment project includes analyzing big data with technologies of dist
 
 ### Build from source
 ```
-git clone https://github.com/nerdle/nerdle.git
-cd nerdle
+git clone https://github.com/news-sentiment/news-sentiment-stratosphere.git
+cd news-sentiment-stratosphere
 mvn clean package
 ```
 _news-sentiment-stratosphere_ is now installed in `news-sentiment-stratosphere/target`
